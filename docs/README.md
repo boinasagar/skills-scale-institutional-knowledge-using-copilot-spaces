@@ -24,6 +24,7 @@ Below are the detailed guides covering each aspect of OctoAcme's project managem
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** — Steps for safe, repeatable releases and deployment processes
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Learning from projects and implementing improvements
 - **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of team roles, responsibilities, and communication patterns
+- **[Role Interaction Checklist](octoacme-role-interaction-checklist.md)** — Templates and checklists for collaboration between roles
 
 ## Getting Started
 
