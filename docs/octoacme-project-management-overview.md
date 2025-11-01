@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Scrum Master: facilitates agile ceremonies, removes impediments, coaches team.
+- UX Designer: leads user research and designs user experiences.
+- DevOps Engineer: manages CI/CD pipelines and infrastructure automation.
+- Data Analyst: analyzes metrics and provides data-informed insights.
+- QA Automation Engineer: develops and maintains automated test suites.
+- Business Analyst: elicits requirements and translates them into user stories.
 
 ## Key Artifacts
 - Project Charter / One-pager
