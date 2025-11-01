@@ -165,6 +165,8 @@ This document provides checklists for key interactions between roles to ensure c
 - [ ] Next steps and action items documented
 
 ### Feature Development Workflow
+**Note**: This workflow presents a typical sequence, but in practice, many activities occur in parallel or iteratively. Teams should adapt this workflow to their specific needs and agile practices.
+
 1. **Requirements** (Business Analyst, Product Manager)
    - [ ] Requirements gathered and documented
    - [ ] User stories created with acceptance criteria
